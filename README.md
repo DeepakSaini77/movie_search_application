@@ -12,7 +12,7 @@ npm install express
 npm install cross-fetch
 node server.js
 ```
-
+now it will be live on [localhost:3000](http://localhost:3000/) 
 
 ### Few Screenshots from output:
 
