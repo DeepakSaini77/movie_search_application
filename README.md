@@ -4,7 +4,7 @@
 ### How to run the application:
 First clone or download the repositery
 
-then we need to install express and cross-fetch and use run the server.
+then we need to install express and cross-fetch and then run the server.
 
 use the following commands
 ```
